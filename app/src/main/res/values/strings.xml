@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PanPlant</string>
+    <string name="data_empty">Data Not Found</string>
+    <string name="internet_loss">Please Connect to the Internet</string>
+    <string name="plant_search">What Plant Today?</string>
+</resources>
